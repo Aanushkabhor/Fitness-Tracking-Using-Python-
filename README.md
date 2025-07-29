@@ -2,6 +2,7 @@
 The Fitness Challenge App is a Python-based console application designed to help users monitor and improve their health. It calculates the user's Body Mass Index (BMI) using height and weight inputs, classifies their fitness level (Underweight, Fit, or Overweight), and suggests personalized challenges accordingly.
 
 Users can:
+
 1.Set monthly weight gain/loss goals,
 
 2.Choose from tailored fitness or wellness challenges,
