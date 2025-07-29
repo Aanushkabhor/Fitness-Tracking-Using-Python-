@@ -10,6 +10,7 @@ Users can:
 
 4.Receive motivational feedback based on consistency.
 
+
 🐍 Python Concepts Used:
 Functions: calculate_bmi(), classify_bmi() for modular code.
 
